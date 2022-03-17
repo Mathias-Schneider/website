@@ -10,6 +10,6 @@ This file is just a readme file that I edited once in while
 
 ## Getting Started
 
-To get started with this project, just `clone`this repository.
+To get started with this project, just `clone`this repository and have fun!
 
 
